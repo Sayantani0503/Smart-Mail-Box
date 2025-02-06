@@ -1,5 +1,3 @@
-pip install transformers torch
-
 from transformers import BertTokenizer, BertForQuestionAnswering
 import torch
 
