@@ -1,5 +1,5 @@
 import streamlit as st
-from main_code1 import get_answer  # Import the function from qa_model.py
+from main_code1 import get_answer  
 
 def main():
     st.title("Question Answering System using BERT")
